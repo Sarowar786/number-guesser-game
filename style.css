@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    background: aqua;
+}
+.content{
+    margin-top: 50px;
+    font-size: 25px;
+}
+#guessInput{
+    margin-top: 20px;
+    height: 30px;
+    width: 200px;
+    font-size: 23px;
+}
+button{
+    height: 30px;
+    margin-top: 20px;
+}
+#message{
+    margin-top: 20px;
+    font-size: 25px;
+    color: red;
+}
